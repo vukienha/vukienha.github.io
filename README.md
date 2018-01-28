@@ -6,7 +6,7 @@ Xem nội dung các bài viết tại [vukienha.github.io](https://vukienha.gith
 
 - GitHub Pages
 - Markdown
-- Jekyll Themes [Cayman](https://github.com/pages-themes/cayman)
+- Jekyll Themes [Minima](https://github.com/jekyll/minima)
 
 ### Liên hệ:
 

@@ -6,9 +6,9 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 #twitter_username: jekyllrb
 github_username:  vukienha
-#rss: rss
+rss: rss
 #dribbble_username: jekyll
-facebook_username: vukienha
+#facebook_username: https://facebook.com/havukien
 #flickr_username: jekyll
 #instagram_username: jekyll
 #linkedin_username: jekyll

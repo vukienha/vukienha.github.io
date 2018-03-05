@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Giới thiệu
 permalink: /about/
 ---
 
-Đang cập nhật...
+Đang suy nghĩ, ah nhức cái đầu quá ...

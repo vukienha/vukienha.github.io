@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chính sách bảo mật
+title: Privacy Policy
 permalink: /privacy-policy/
 ---
 

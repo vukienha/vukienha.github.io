@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Privacy policy
+title: Chính sách bảo mật
 permalink: /privacy-policy/
 ---
 
-## Privacy Policy    
 I built the app as a free app. 
 
 This page is used to inform website visitors regarding my policies with the collection, use, and

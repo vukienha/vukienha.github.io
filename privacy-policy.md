@@ -17,9 +17,9 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
     which is accessible at my App, unless otherwise defined in this Privacy Policy.
 
-**Information Collection and Use**    
-For a better experience while using my App, I may require you to provide us with certain
-    baisc personally identifiable information, such as users name, email. 
+**Which Google user data that application accesses, uses, stores, or shares ?**     
+For the app working, I may require you to provide us with certain
+    baisc personally information, such as users name, email. 
 	The information that I request will be retained by us and used as described in this privacy policy.
 
 **Security**    

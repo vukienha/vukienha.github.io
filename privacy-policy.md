@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Google Dev
-permalink: /google-dev/
+title: Privacy policy
+permalink: /privacy-policy/
 ---
 
 ## Privacy Policy    
